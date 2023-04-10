@@ -1,0 +1,5 @@
+classes=6
+train=/home/iclab/AutoRace/cfg/train.txt
+valid=/home/iclab/AutoRace/cfg/val.txt
+names=/home/iclab/AutoRace/cfg/AutoRace.names
+backup=/home/iclab/AutoRace/cfg/weights/
